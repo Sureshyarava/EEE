@@ -22,6 +22,7 @@ font-size:100%;
 a{
   text-decoration:none;
   color:#FFA500;
+  font-family:Georgia;
 }
 a:hover{
   color:#800080;
