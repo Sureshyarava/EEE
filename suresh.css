@@ -1,6 +1,7 @@
 #center{
   text-align:center;
 font-size:150%;
+  font-family:Times New Roman;
   }
 #position{
 display:block;
@@ -8,6 +9,7 @@ display:block;
 font-size:175%;
 color:#FFA500;
 background-color:#800080;
+  font-family:Times New Roman;
   }
 #position1{
   display:block;
